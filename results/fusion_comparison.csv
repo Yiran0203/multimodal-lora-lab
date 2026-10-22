@@ -1,0 +1,4 @@
+Model,BLEU,ROUGE-L,METEOR,Accuracy,Token-F1
+Cross-Attention,0.0,0.3483,0.1745,0.3433,0.3474
+Gated Cross-Attention,0.0,0.3175,0.1598,0.315,0.3181
+"Gated Cross-Attention, lr=5e-5",0.0,0.2559,0.1289,0.255,0.2559
