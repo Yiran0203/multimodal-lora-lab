@@ -26,8 +26,6 @@ flowchart LR
 
 ## LoRA rank 消融
 
-![保存的 rank 消融结果](assets/rank-ablation.png)
-
 | Rank | 可训练参数（百万） | ROUGE-L | Exact match |
 |---|---:|---:|---:|
 | 2 | 7.162 | 0.3632 | 0.360 |
