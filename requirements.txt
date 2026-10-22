@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+peft
+datasets
+numpy
+pandas
+Pillow
+matplotlib
+nltk
+evaluate
+rouge-score
+sacrebleu
+jupyter
